@@ -16,11 +16,13 @@
 
 ### 💼 Sobre mim
 
-Desenvolvedor full stack focado em **sistemas de gestão logística e fiscal**. No dia a dia eu:
+Desenvolvedor full stack focado em **sistemas de gestão (ERP)**, com atuação em financeiro, faturamento, estoque, fiscal e automações. No dia a dia eu:
 
 - 🧩 Construo **microsserviços serverless em Go** orientados a eventos (AWS Lambda, SQS, EventBridge, DynamoDB)
 - 🏗️ Provisiono e versiono infraestrutura com **Terraform**
-- 🧾 Integro com o ecossistema fiscal brasileiro: **CT-e, MDF-e, NF-e, NFS-e**, SEFAZ e Sintegra
+- 💰 Desenvolvo e evoluo rotinas de **financeiro, compras e faturamento**
+- 🔧 Investigo e corrijo problemas em sistemas em produção, como inconsistências de **estoque** e saldos
+- 🧾 Também integro com o ecossistema fiscal brasileiro: **CT-e, MDF-e, NF-e, NFS-e**, SEFAZ e Sintegra
 - 🖥️ Evoluo sistemas em **C# / .NET** e **SQL Server**
 - 🎨 Crio interfaces com **React, TypeScript, Vite e Tailwind**
 - 🤖 Uso IA no fluxo de desenvolvimento para entregar com mais velocidade e qualidade
@@ -29,7 +31,7 @@ Desenvolvedor full stack focado em **sistemas de gestão logística e fiscal**. 
 
 ### 🧭 Experiência
 
-Desenvolvo software profissionalmente desde **2022**. Desde **fevereiro de 2024** estou em uma empresa de tecnologia para logística, em um time que mantém um ERP de ponta a ponta. Minha evolução técnica:
+Desenvolvo software profissionalmente desde **2022**. Desde **fevereiro de 2024** estou em uma empresa de tecnologia, em um time que mantém um ERP de ponta a ponta. Minha evolução técnica:
 
 | Período | Foco | Tecnologias |
 |---|---|---|
