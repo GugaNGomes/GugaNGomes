@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/gustavo-nascimento-354162254"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=GugaNGomes&style=for-the-badge&color=2c5364&label=VISITAS" />
 </p>
 
@@ -29,10 +29,11 @@ Desenvolvedor full stack focado em **sistemas de gestão logística e fiscal**. 
 
 ### 🧭 Experiência
 
-Atuo desde **março de 2024** em uma empresa de tecnologia para logística, em um time que mantém um ERP de ponta a ponta. Minha evolução técnica:
+Desenvolvo software profissionalmente desde **2022**. Desde **fevereiro de 2024** estou em uma empresa de tecnologia para logística, em um time que mantém um ERP de ponta a ponta. Minha evolução técnica:
 
 | Período | Foco | Tecnologias |
 |---|---|---|
+| **2022–2023** | Início da carreira como desenvolvedor júnior: desenvolvimento web e boas práticas de programação | C# · CSS · Scrum |
 | **2024–2025** | Evolução do ERP legado: módulos financeiro, estoque e faturamento, relatórios, exportações e APIs | C# · .NET · SQL Server |
 | **2026** | Novas telas e experiência do usuário: captura de documentos fiscais, planejamento orçamentário e importações | React · TypeScript · Tailwind |
 | **2026** | Automações e arquitetura em nuvem: rotinas agendadas e orientadas a eventos | Go · AWS Lambda · EventBridge · SQS · Terraform |
