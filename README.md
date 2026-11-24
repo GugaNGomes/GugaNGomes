@@ -49,11 +49,6 @@ Desenvolvedor full stack focado em **sistemas de gestão logística e fiscal**. 
 ### 📊 Estatísticas
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GugaNGomes&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=2C9FD9&icon_color=2C9FD9&text_color=c9d1d9" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GugaNGomes&layout=compact&hide_border=true&bg_color=0d1117&title_color=2C9FD9&text_color=c9d1d9" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=GugaNGomes&hide_border=true&background=0d1117&ring=2C9FD9&fire=2C9FD9&currStreakLabel=2C9FD9&locale=pt_BR" />
 </p>
 
