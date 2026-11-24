@@ -35,7 +35,7 @@ Desenvolvo software profissionalmente desde **2022**. Desde **fevereiro de 2024*
 
 | Período | Foco | Tecnologias |
 |---|---|---|
-| **2022–2023** | Início da carreira como desenvolvedor júnior: desenvolvimento web e boas práticas de programação | C# · CSS · Scrum |
+| **2022–2023** | Formação em desenvolvimento de software e atuação como desenvolvedor júnior e instrutor: correção de falhas, novas funcionalidades e apoio a alunos | C# · SQL Server · Redis · Docker · HTML · CSS |
 | **2024–2025** | Evolução do ERP legado: módulos financeiro, estoque e faturamento, relatórios, exportações e APIs | C# · .NET · SQL Server |
 | **2026** | Novas telas e experiência do usuário: captura de documentos fiscais, planejamento orçamentário e importações | React · TypeScript · Tailwind |
 | **2026** | Automações e arquitetura em nuvem: rotinas agendadas e orientadas a eventos | Go · AWS Lambda · EventBridge · SQS · Terraform |
@@ -46,6 +46,7 @@ Desenvolvo software profissionalmente desde **2022**. Desde **fevereiro de 2024*
 - 📈 Ferramentas de **planejamento orçamentário e acompanhamento de metas**
 - ⚙️ **Microsserviços serverless** que automatizam alertas, relatórios e validação de cadastros, com infraestrutura toda versionada em Terraform
 - 🔁 Rotina de equipe com **Git, pull requests, homologação e hotfixes**
+- 🎓 Experiência como **instrutor**, apoiando alunos e esclarecendo dúvidas sobre as aulas
 
 ---
 
